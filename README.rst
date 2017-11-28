@@ -36,7 +36,7 @@ Installation Instructions
 
     $ pip install newrelic-plugin-agent
 
-* See ``pip`` installation instructions at http://www.pip-installer.org/en/latest/installing.html
+* See ``pip`` installation instructions at https://pip.pypa.io/en/stable/installing
 
 2. Copy the configuration file example from ``/opt/newrelic-plugin-agent/newrelic-plugin-agent.cfg`` to ``/etc/newrelic/newrelic-plugin-agent.cfg`` and edit the configuration in that file.
 
